@@ -1,8 +1,8 @@
 My personal solution to sort array of numbers from low value to max value and remove duplicates values. All using php language.
 
-The script loops in each elemnt of the array that needs to be sorted.
+The script loops in each element of the array that needs to be sorted.
 
-At start the elemt is checked if has brother elements in the same array that are bigger in value than it. If yes that the bigger brother takes his place.
+At start the element is checked if has brother elements in the same array that are bigger in value than it. If yes that the bigger brother takes his place.
 
 Next the element if checked in his parent array if it has the same value as other brothers, if there are similar values it is removed form the array.
 
