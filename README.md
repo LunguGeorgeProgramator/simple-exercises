@@ -1,5 +1,15 @@
 My personal solution to sort array of numbers from low value to max value and remove duplicates values. All using php language.
 
+The script loops in each elemnt of the array that needs to be sorted.
+
+At start the elemt is checked if has brother elements in the same array that are bigger in value than it. If yes that the bigger brother takes his place.
+
+Next the element if checked in his parent array if it has the same value as other brothers, if there are similar values it is removed form the array.
+
+The final action is to remove the element from the parent array and added in the new sorted array.
+
+This process is repeated untill the un sorted array is empty in a "while" loop.
+
 The random array entered:
 
     $array_to_sort = [50, 345, 6, 345, 1, 4, 100, 2, 503, 3, 1, 345];
