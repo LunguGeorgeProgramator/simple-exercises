@@ -47,3 +47,30 @@ Echo's out the results:
      * 10 => int 345
      * 11 => int 503
      */ 
+     
+    this algorims finds 2 numbers that have sum equal to 9 from a array of numbers
+    C:\wamp64\www\simple-exercises\findSumOfTwoNumbers.php:5:
+    array (size=6)
+      0 => int 4
+      1 => int 1
+      2 => int 6
+      3 => int 5
+      4 => int 8
+      5 => int 9
+    C:\wamp64\www\simple-exercises\findSumOfTwoNumbers.php:32:
+    array (size=2)
+      'first_elem_val' => int 4
+      'second_elem_val' => int 5
+    this algorims finds 2 recursive numbers that have sum equal to 9 from a array of numbers
+    C:\wamp64\www\simple-exercises\findSumOfTwoNumbers.php:39:
+    array (size=6)
+      0 => int 1
+      1 => int 6
+      2 => int 4
+      3 => int 5
+      4 => int 8
+      5 => int 9
+    C:\wamp64\www\simple-exercises\findSumOfTwoNumbers.php:53:
+    array (size=2)
+      'first_elem_val' => int 4
+      'second_elem_val' => int 5
