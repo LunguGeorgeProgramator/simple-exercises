@@ -51,7 +51,8 @@ Echo's out the results:
      
    findSumOfTwoNumbers.php -> is a simple loop script that find 2 numbers in a array/list of numbers, the condition is that the sum of the two to be 9.
    
-   this algorims finds 2 numbers that have sum equal to 9 from a array of numbers
+   This algorims finds 2 numbers that have sum equal to 9 from a array of numbers
+   
     C:\wamp64\www\simple-exercises\findSumOfTwoNumbers.php:5:
     array (size=6)
       0 => int 4
@@ -64,7 +65,9 @@ Echo's out the results:
     array (size=2)
       'first_elem_val' => int 4
       'second_elem_val' => int 5
-  this algorims finds 2 recursive numbers that have sum equal to 9 from a array of numbers
+      
+  This algorims finds 2 recursive numbers that have sum equal to 9 from a array of numbers
+  
     C:\wamp64\www\simple-exercises\findSumOfTwoNumbers.php:39:
     array (size=6)
       0 => int 1
